@@ -1,2 +1,2 @@
 # go-map
-Go: The Complete Developer's Guide (Golang) **SECTION 5**
+Go: The Complete Developer's Guide (Golang)**SECTION 5**
